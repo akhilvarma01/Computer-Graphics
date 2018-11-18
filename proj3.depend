@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1542511575 source:/Users/akhilvarma01/Desktop/csci272_projects/proj3/main.cpp
+	<string.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+
