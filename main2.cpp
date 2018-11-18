@@ -1,10 +1,4 @@
 /* Name - AKHIL VARMA ALLURI
-*
-* Project - Modelling Transformations
-*
-* CSCI272 - Computer Graphics
-*
-* Date of Submission - 10/20/18
 */
 #include <string.h>
 
