@@ -1,8 +1,5 @@
 /*
 * Submitted by Akhil Varma Alluri
-* CSCI 272
-* Project 3
-* Submitted to Dr.Dhanyu
 */
 #include <string.h>
 
